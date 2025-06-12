@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DSL-21
-- 👀 I’m interested in coding Expert Advisors (EAs) for trading and exploring ethical hacking.
-- 🌱 I’m currently learning advanced MQL5 techniques and diving into cybersecurity concepts.
-- 💞️ I’m looking to collaborate on algorithmic trading systems and projects that push the boundaries of automation.
-- 📫 How to reach me: Daniel.Suk@email.cz
+👋 Hi, I’m @DSL-21 — self-taught QA learner, Python + Selenium explorer, and ex-military.
+🧠 I’m currently studying test automation, basic cybersecurity, and algorithmic trading with MQL5.
+💻 I enjoy building small but real test scripts, breaking virtual labs, and learning how systems fail — to make them stronger.
+🤝 Looking to collaborate on QA/testing, automation, or ethical hacking projects that help sharpen skills and build experience.
+📫 Reach me at: daniel.suk97@gmail.com
 - 😄 Pronouns: Me/Myself/I
 - ⚡ Fun fact: Total badass, mostly...
 <!---
