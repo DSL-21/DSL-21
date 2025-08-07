@@ -2,7 +2,7 @@
 - 🧠 I’m currently studying test automation, basic cybersecurity, and algorithmic trading with MQL5.
 - 💻 I enjoy building small but real test scripts, breaking virtual labs, and learning how systems fail — to make them stronger.
 - 🤝 Looking to collaborate on QA/testing, automation, or ethical hacking projects that help sharpen skills and build experience.
-- 📫 Reach me at: daniel.suk97@gmail.com
+- 📫 Reach me at: You know where ;)
 - 😄 Pronouns: Me/Myself/I
 - ⚡ Fun fact: Total badass, mostly...
 <!---
