@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DSL-21 — self-taught QA learner, Python + Selenium explorer, and ex-military.
+- 👋 Hi, I’m @DSL-21 — self-taught Code Explorer, AI Orchestrator and ex-military.
 - 🧠 I’m currently studying test automation, basic cybersecurity, and algorithmic trading with MQL5.
 - 💻 I enjoy building small but real test scripts, breaking virtual labs, and learning how systems fail — to make them stronger.
-- 🤝 Looking to collaborate on QA/testing, automation, or ethical hacking projects that help sharpen skills and build experience.
+- 🤝 Looking to collaborate on Shell automation, or ethical hacking projects that help sharpen skills and build experience.
 - 📫 Reach me at: You know where ;)
 - 😄 Pronouns: Me/Myself/I
 - ⚡ Fun fact: Total badass, mostly...
